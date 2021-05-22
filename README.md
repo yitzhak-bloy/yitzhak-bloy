@@ -1,9 +1,9 @@
-                                                          Hello there 👋 I'm Yitzhak Bloy.
+                  Hello there 👋 I'm Yitzhak Bloy.
 
-                                                          I'm a Full Stack Web Developer.
-                                                          
+                  I'm a Full Stack Web Developer.
 
-                                                           #javascript, #reactjs, #nodejs
+
+                   #javascript, #reactjs, #nodejs
 
 <!--
 **yitzhak-bloy/yitzhak-bloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
